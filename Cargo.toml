@@ -1,0 +1,10 @@
+[package]
+name = "linux-pe-rs"
+version = "0.1.0"
+authors = [
+    "can1357 <https://github.com/can1357>",
+    "wtf-keaton <https://github.com/wtf-keaton>",
+]
+repository = "https://github.com/wtf-keaton/linux-pe-rs"
+
+[dependencies]
